@@ -1,6 +1,6 @@
 <?php
 
-$string = file_get_contents(__DIR__ . "/../uims/vendor/yiisoft/yii2/db/BaseActiveRecord.php");
+$string = str_repeat('himanshu_raj_aman', 999999);
 
 //Get length of the string (fastest)
 function strlen_f($string)
